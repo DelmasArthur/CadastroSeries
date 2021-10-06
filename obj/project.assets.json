@@ -8,24 +8,34 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Arthur Delmas\\.nuget\\packages\\": {}
+    "C:\\Users\\Arthur Delmas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\csharp\\csharp-examples-master\\05-Cadastro\\Cadastro\\Cadastro.csproj",
+      "projectUniqueName": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\CadastroSeries\\Cadastro.csproj",
       "projectName": "Cadastro",
-      "projectPath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\csharp\\csharp-examples-master\\05-Cadastro\\Cadastro\\Cadastro.csproj",
+      "projectPath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\CadastroSeries\\Cadastro.csproj",
       "packagesPath": "C:\\Users\\Arthur Delmas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\csharp\\csharp-examples-master\\05-Cadastro\\Cadastro\\obj\\",
+      "outputPath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\CadastroSeries\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Arthur Delmas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Arthur Delmas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
